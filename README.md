@@ -15,4 +15,4 @@ Welcome to my LeetCode solutions repository! 🎯 Here, you'll find my approache
 ## 🚀 Let’s Connect!  
 If you find my solutions helpful, feel free to ⭐ this repo and follow me for more! 🌟  
 
-**Happy coding!** 💻🎉  
+**Happy coding!** 💻
